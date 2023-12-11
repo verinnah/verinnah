@@ -13,6 +13,7 @@ I may not be the best, but I can handle my stuff with C#, HTML/CSS/JS, and proba
 
 ## Me on other sites...
 * Twitter: [@verinnah](https://twitter.com/verinnah)
+* Bluesky: [@verinna.bsky.social](https://bsky.app/profile/verinna.bsky.social)
 * Carrd: [verinna.carrd.co](https://verinna.carrd.co/)
 * AniList: [@verinna](https://anilist.co/user/verinna)
 * Discord: verinna
